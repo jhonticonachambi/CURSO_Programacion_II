@@ -1,0 +1,12 @@
+C:\Users\CarlosM\source\repos\SistemaEscritorio\SistemaEscritorio.Entidad\bin\Debug\SistemaEscritorio.Entidad.dll
+C:\Users\CarlosM\source\repos\SistemaEscritorio\SistemaEscritorio.Entidad\bin\Debug\SistemaEscritorio.Entidad.pdb
+C:\Users\CarlosM\source\repos\SistemaEscritorio\SistemaEscritorio.Entidad\obj\Debug\SistemaEscritorio.Entidad.csprojAssemblyReference.cache
+C:\Users\CarlosM\source\repos\SistemaEscritorio\SistemaEscritorio.Entidad\obj\Debug\SistemaEscritorio.Entidad.csproj.CoreCompileInputs.cache
+C:\Users\CarlosM\source\repos\SistemaEscritorio\SistemaEscritorio.Entidad\obj\Debug\SistemaEscritorio.Entidad.dll
+C:\Users\CarlosM\source\repos\SistemaEscritorio\SistemaEscritorio.Entidad\obj\Debug\SistemaEscritorio.Entidad.pdb
+C:\Users\Jhon\Desktop\Examenprog\SistemaEscritorio\SistemaEscritorio.Entidad\bin\Debug\SistemaEscritorio.Entidad.dll
+C:\Users\Jhon\Desktop\Examenprog\SistemaEscritorio\SistemaEscritorio.Entidad\bin\Debug\SistemaEscritorio.Entidad.pdb
+C:\Users\Jhon\Desktop\Examenprog\SistemaEscritorio\SistemaEscritorio.Entidad\obj\Debug\SistemaEscritorio.Entidad.csprojAssemblyReference.cache
+C:\Users\Jhon\Desktop\Examenprog\SistemaEscritorio\SistemaEscritorio.Entidad\obj\Debug\SistemaEscritorio.Entidad.csproj.CoreCompileInputs.cache
+C:\Users\Jhon\Desktop\Examenprog\SistemaEscritorio\SistemaEscritorio.Entidad\obj\Debug\SistemaEscritorio.Entidad.dll
+C:\Users\Jhon\Desktop\Examenprog\SistemaEscritorio\SistemaEscritorio.Entidad\obj\Debug\SistemaEscritorio.Entidad.pdb
